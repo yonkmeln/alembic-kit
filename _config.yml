@@ -24,7 +24,7 @@ baseurl: ''
 title: 'Sito per takkini'
 description: 'solo per veri takkini'
 permalink: pretty
-logo: "https://image.flaticon.com/icons/svg/97/97998.svg"
+logo: "http://www.briarpress.org/?q=system/files/turkey_in_circle.png"
 
 # Pagination
 paginate: 5
