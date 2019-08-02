@@ -19,7 +19,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://melnyk.ml'
+url: 'https://takkini.tk'
 baseurl: ''
 title: 'Sito per takkini'
 description: 'solo per veri takkini'
@@ -51,5 +51,5 @@ collections:
     output: true
     description: "Quello che verrà scritto in seguito è tratto da storie finte"
     feature_text: |
-      Welcome to my blog
+     Libri ( forse ) aperti 
     feature_image: "https://picsum.photos/id/1073/1300/400"
