@@ -47,9 +47,9 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Le nostre avventure
     output: true
-    description: "My thoughts and ideas"
+    description: "Quello che verrà scritto in seguito è tratto da storie finte"
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/id/1073/1300/400"
