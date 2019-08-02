@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About this website
+title: Su questo sito 
 ---
-
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Questo sito è stato creato per essere un punto di incontro per tutti i takkini
