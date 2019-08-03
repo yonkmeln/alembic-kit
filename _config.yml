@@ -35,7 +35,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Torna su
+- title: Torna sotto
   url: "#top"
 
 # Collections
