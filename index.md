@@ -7,3 +7,5 @@ feature_text: |
 ---
 
 Stasera si spacca tutto
+
+{% include video.html id="Hobdg-Fp9kI" title="spaccare tutto" %}
