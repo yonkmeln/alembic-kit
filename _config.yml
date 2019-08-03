@@ -24,13 +24,7 @@ baseurl: ''
 title: 'Sito per takkini'
 description: 'solo per veri takkini'
 permalink: pretty
-logo: "http://www.briarpress.org/?q=system/files/turkey_in_circle.png"
-
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
-
-# Header nav
+logo: "https://mobile-cdn.123rf.com/300wm/jemastock/jemastock1710/jemastock171007426/87998755-progettazione-dell-illustrazione-di-vettore-di-immagine-dell-icona-dell-animale-domestico-del-tacchi.jpg?ver=6"
 navigation_header:
 - title: Home
   url: /
