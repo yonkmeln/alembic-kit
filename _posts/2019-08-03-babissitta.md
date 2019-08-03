@@ -1,0 +1,8 @@
+---
+layout: post
+title: Storia1
+categories:
+- General
+feature_image: "https://picsum.photos/id/991/1300/400"
+
+Non ditelo a nessuno, però a mio zio piace il tacchino
