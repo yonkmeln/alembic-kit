@@ -18,6 +18,14 @@ plugins:
 - jekyll-feed
 - jemoji
 
+#social
+twitter_username:     
+github_username:      
+linkedin_username:    
+google_plus_username:
+facebook_username:    yuriy.melnyk
+dribbble_username:
+
 # Site settings
 url: 'https://takkini.tk'
 baseurl: ''

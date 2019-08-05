@@ -9,3 +9,11 @@ feature_text: |
 Stasera si spacca tutto
 
 {% include video.html id="Hobdg-Fp9kI" title="spaccare tutto" %}
+
+{% if site.facebook_username %}
+  <li>
+    <a href="https://www.facebook.com/{{ site.facebook_username }}">
+      <i class="fa fa-facebook"></i> Facebook
+    </a>
+  </li>
+{% endif %}
