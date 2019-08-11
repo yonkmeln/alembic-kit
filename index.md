@@ -17,4 +17,4 @@ Stasera si spacca tutto
 #    </a>
 #  </li>
 #{% endif %}
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+#<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
